@@ -1,6 +1,6 @@
-# GitAutoStart
+# GitAutoInit
 
-GitAutoStart is a simple & easy script that helps with git repo initialization and github repo importing. 
+GitAutoInit is a simple & easy script that helps with git repo initialization and github repo importing. 
 
 ## Operating Systems
 
@@ -12,4 +12,4 @@ Github CLI must be installed in your computer for the script to work
 
 ## Usage
 
-Download the 'gitautosave.sh' script and run 'bash gitautosave.sh'. Follow the setup instructions and you're done! 
+Download the 'gitautoinit.sh' script and run 'bash gitautoinit.sh'. Follow the setup instructions and you're done! 
