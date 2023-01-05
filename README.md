@@ -12,4 +12,4 @@ Github CLI must be installed in your computer for the script to work
 
 ## Usage
 
-Download the 'gitautoinit.sh' script and run 'bash gitautoinit.sh'. Follow the setup instructions and you're done! 
+Download the `gitautoinit.sh` script and run `bash gitautoinit.sh`. Follow the setup instructions and you're done! 
