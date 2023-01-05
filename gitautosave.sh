@@ -10,5 +10,5 @@ echo "Enter commit status [private/public]"
 read status
 echo "Enter local commit directory"
 read directory
-gh repo create --$status --source=$directory
-echo "Finished running GitAuto" 
+gh repo create --$status --source=$directory --remote=upstream --push
+echo "Finished running GitAuto" x
