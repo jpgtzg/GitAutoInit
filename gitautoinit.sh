@@ -11,4 +11,4 @@ read status
 echo "Enter local commit directory"
 read directory
 gh repo create --$status --source=$directory --remote=upstream --push
-echo "Finished running GitAuto" x
+echo "Finished running GitAuto" 
